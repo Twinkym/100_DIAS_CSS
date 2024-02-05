@@ -16,7 +16,7 @@ Un simple menú hamburguesa con animaciones interactivas.
 
 [https://codepen.io/Kirgo/pen/KKERxEd](https://codepen.io/Kirgo/pen/KKERxEd)
 
-![Demo]() <!-- Sustituye con un enlace o imagen de tu demo si tienes uno -->
+![IMG](02_CSS_CHALLENGE/CAPTURA_MENU_HAMBURGERSA.png) <!-- Sustituye con un enlace o imagen de tu demo si tienes uno -->
 
 ## Características
 
