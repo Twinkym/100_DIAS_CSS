@@ -38,7 +38,7 @@ $cubic-bezier: cubic-bezier(0.4, 0, .5, 1);
     right: 0;
     height: 124px;
     background: #7DDFFC;
-    animation: sky-turns-black 4s $cubic-bezier infinite;
+    animation: sky-turns-black 6s $cubic-bezier infinite;
 }
 
 .sun{
@@ -62,7 +62,7 @@ $cubic-bezier: cubic-bezier(0.4, 0, .5, 1);
 		width: 116px;
 		background: #F4F4F4;
 	  clip-path: polygon(0% 100%, 100% 100%, 50% 0%);
-		animation: pyramide-shading 4s $cubic-bezier infinite;
+		animation: pyramide-shading 6s $cubic-bezier infinite;
 }
 
 .side-right {
@@ -73,7 +73,7 @@ $cubic-bezier: cubic-bezier(0.4, 0, .5, 1);
 		width: 58px;
 		background: #DDDADA;
 	  clip-path: polygon(30% 100%, 100% 100%, 0% 0%);
-		animation: pyramide-shading 4s $cubic-bezier infinite reverse;
+		animation: pyramide-shading 6s $cubic-bezier infinite reverse;
 	}
 	
 	.shadow {
@@ -86,7 +86,7 @@ $cubic-bezier: cubic-bezier(0.4, 0, .5, 1);
 		background: rgba(0,0,0,0.2);
 		transform-origin: 50% 0%;
 	  clip-path: polygon(115px 0%, 231px 0%, 80% 100%);
-		animation: shadow-on-the-floor 4s $cubic-bezier infinite;
+		animation: shadow-on-the-floor 6s $cubic-bezier infinite;
 	}
 	
 	.ground {
@@ -97,7 +97,7 @@ $cubic-bezier: cubic-bezier(0.4, 0, .5, 1);
 		right: 0;
 		height: 56px;
 		background: #F0DE75;
-		animation: fading-sand 4s $cubic-bezier infinite;
+		animation: fading-sand 6s $cubic-bezier infinite;
 	}
 
 @keyframes sun-goes-down {
