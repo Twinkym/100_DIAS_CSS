@@ -19,8 +19,8 @@ Un simple loader con forma de circulo.
 
 ## Características
 
-- Menú hamburguesa interactivo con animaciones suaves.
-- Escrito en HTML, SCSS y jQuery.
+- Loader con animaciones suaves.
+- Escrito en HTML, SCSS.
 - Fácil de integrar en proyectos web.
 
 ## Instalación
@@ -37,7 +37,7 @@ Un simple loader con forma de circulo.
 
 ## Personalización
 
-Puedes personalizar el menú hamburguesa ajustando los colores, tamaños y animaciones en el archivo `style.scss`. Las variables están definidas al principio del archivo para facilitar la modificación.
+Puedes personalizar el Loader ajustando los colores, tamaños y animaciones en el archivo `style.scss`. Las variables están definidas al principio del archivo para facilitar la modificación.
 
 ## Licencia
 
