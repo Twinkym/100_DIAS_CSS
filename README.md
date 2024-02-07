@@ -3,12 +3,103 @@
 CSS 100 DAYS CHALLENGE
 =====================
 
-Day 1: CSS:  Introduction to CSS and Syntax.
-
-Today we will introduce you to the world of Cascading Style Sheets (
-    CSS). CSS is a language used for describing how HTML elements should be rendered in a browser. It allows us to control the layout, colors, fonts, sizes etc. of web pages. In this CSS). CSS is a language used for describing how HTML elements should be rendered in a web browser. CSS). In this first day, we will cover the basics of how CSS works, its syntax CSS). The goal for today is not only to learn about how CSS works, but also to get CSS). CSS is a language used for describing how HTML elements should be rendered in a web browser. CSS). The goal is not only to provide an overview but also a hands-on experience with CSS). CSS is a language used for describing how HTML elements should be rendered in a web browser. CSS). In this first day, we will focus on understanding the basics of CSS including syntax and
-
-Day 2: CSS Flexbox Layout Module
-    Template
-
-Day 26: CSS Flexbox Layout - Challenge
+Day 1: CSS: Introduction to CSS and Syntax.
+Day 2: CSS: 
+Day 3: CSS:
+Day 4: CSS:
+Day 5: CSS:
+Day 6: CSS:
+Day 7: CSS:
+Day 8: CSS:
+Day 9: CSS:
+Day 10: CSS:
+Day 11: CSS:
+Day 12: CSS:
+Day 13: CSS:
+Day 14: CSS:
+Day 15: CSS:
+Day 16: CSS:
+Day 17: CSS:
+Day 18: CSS:
+Day 19: CSS:
+Day 20: CSS:
+Day 21: CSS:
+Day 22: CSS:
+Day 23: CSS:
+Day 24: CSS:
+Day 25: CSS:
+Day 26: CSS:
+Day 27: CSS:
+Day 38: CSS:
+Day 29: CSS:
+Day 30: CSS:
+Day 31: CSS:
+Day 32: CSS:
+Day 33: CSS:
+Day 34: CSS:
+Day 35: CSS:
+Day 36: CSS:
+Day 37: CSS:
+Day 38: CSS:
+Day 39: CSS:
+Day 40: CSS:
+Day 41: CSS:
+Day 42: CSS:
+Day 43: CSS:
+Day 44: CSS:
+Day 45: CSS:
+Day 46: CSS:
+Day 47: CSS:
+Day 48: CSS:
+Day 49: CSS:
+Day 50: CSS:
+Day 51: CSS:
+Day 52: CSS:
+Day 53: CSS:
+Day 54: CSS:
+Day 55: CSS:
+Day 56: CSS:
+Day 57: CSS:
+Day 58: CSS:
+Day 59: CSS:
+Day 60: CSS:
+Day 61: CSS:
+Day 62: CSS:
+Day 63: CSS:
+Day 64: CSS:
+Day 65: CSS:
+Day 66: CSS:
+Day 67: CSS:
+Day 68: CSS:
+Day 69: CSS:
+Day 70: CSS:
+Day 71: CSS:
+Day 72: CSS:
+Day 73: CSS:
+Day 74: CSS:
+Day 75: CSS:
+Day 76: CSS:
+Day 77: CSS:
+Day 78: CSS:
+Day 79: CSS:
+Day 80: CSS:
+Day 81: CSS:
+Day 82: CSS:
+Day 83: CSS:
+Day 84: CSS:
+Day 85: CSS:
+Day 86: CSS:
+Day 87: CSS:
+Day 88: CSS:
+Day 89: CSS:
+Day 90: CSS:
+Day 91: CSS:
+Day 92: CSS:
+Day 93: CSS:
+Day 94: CSS:
+Day 95: CSS:
+Day 96: CSS:
+Day 97: CSS:
+Day 98: CSS:
+Day 99: CSS:
+Day 100: CSS:
