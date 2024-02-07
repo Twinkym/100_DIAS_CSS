@@ -1,7 +1,6 @@
 # the following disclaimer in the documentation and/or other materials provided with the distribution is included without modification: "IMPORTANT NOTICE: Software supplied by AT&T is covered by clause 102 of the U.S. Copyright Act. Do not remove or alter this notice. If this copyright notice appears on a product, your use of that product is subject to the terms of the license agreement between you and AT&T."
 
 CSS 100 DAYS CHALLENGE
-    =====================
 
 Day 1: CSS: Introduction to CSS and Syntax.
 Day 2: CSS:
