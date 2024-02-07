@@ -15,7 +15,7 @@ Un simple loader con forma de circulo.
 
 [https://codepen.io/Kirgo/pen/VwRBGrP](https://codepen.io/Kirgo/pen/VwRBGrP)
 
-![IMG](CAPTURA_MENU_HAMBURGERSA.png) <!-- Sustituye con un enlace o imagen de tu demo si tienes uno -->
+![GIF](https://github.com/Twinkym/100_DIAS_CSS/blob/77a76deacfafcf7456e1df9d0bcd16d7406e74b5/04_CSS_CHALLENGE/Circle%20Loader.gif) <!-- Sustituye con un enlace o imagen de tu demo si tienes uno -->
 
 ## Características
 
